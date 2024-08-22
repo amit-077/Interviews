@@ -9,9 +9,9 @@ Coding Questions (2) [I used JAVA to solve questions]<br>
 2. `Given an array of numbers, you have to print the numbers which are power of 7.`
    Eg: array = [343,14,49,21,33,20,91,87,1]<br>
    Output :<br>
-   343 3 // 7^3 = 343<br>
-   49 2 // 7^2 = 49<br>
-   1 0 // 7^0 = 1<br>
+   343 3 &nbsp;&nbsp;// 7^3 = 343<br>
+   49 2 &nbsp;&nbsp;// 7^2 = 49<br>
+   1 0 &nbsp;&nbsp;// 7^0 = 1<br>
 
 ---
 
