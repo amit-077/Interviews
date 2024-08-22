@@ -1,4 +1,4 @@
-# Round 1 (Online) :
+# Round 1 (Online) (50-60 mins) :
 
 Introduce yourself<br>
 About internships<br>
@@ -15,7 +15,7 @@ Coding Questions (2) [I used JAVA to solve questions]<br>
 
 ---
 
-# Round 2 (Online) :
+# Round 2 (Online) (30-40 mins) :
 
 Introduce yourself<br>
 Asked about my projects<br>
@@ -40,7 +40,7 @@ Coding Questions (3)<br>
 
 ---
 
-# Round 3 (Offline) :
+# Round 3 (Offline) (40-45 mins):
 
 Tell me about yourself<br>
 What is garbage collector in java and how it works<br>
